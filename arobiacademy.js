@@ -1,0 +1,1 @@
+document.write('<marquee height="200" direction="UP" scrolldelay="5" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()"> <center><ul><li><a href="https://www.arobiacademy.com/2021/08/tieng-anh-giao-tiep-cho-nguoi-moi-bat-au.html" target="_blank" title="Tiếng Anh giao tiếp cho người mới bắt đầu</a></li></ul></center></marquee>')
